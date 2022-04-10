@@ -19,7 +19,7 @@ public class MenuUsuario {
 
             switch (ingreso) {
 
-                //PARTE CLIENTES---------------------------------------------------
+                //PART CLIENTS---------------------------------------------------
                 
                 case "1":
                     ingreso = JOptionPane.showInputDialog(null, "1: Agregar Cliente \n"
@@ -66,7 +66,7 @@ public class MenuUsuario {
                     }
                     break;
 
-                //PARTE MEDICOS---------------------------------------------------
+                //PART MEDICS---------------------------------------------------
                     
                 case "2":
                     ingreso = JOptionPane.showInputDialog(null, "1: Agregar Medico \n"
@@ -111,7 +111,7 @@ public class MenuUsuario {
                     }
                     break;
                     
-                    //PARTE PARAMEDICOS---------------------------------------------------
+                    //PART PARAMEDICS---------------------------------------------------
                     
                 case "3":
                     ingreso = JOptionPane.showInputDialog(null, "1: Agregar Paramedico \n"
